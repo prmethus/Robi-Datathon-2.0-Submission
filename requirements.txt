@@ -1,0 +1,9 @@
+keras_tuner==1.1.2
+matplotlib==3.5.1
+numpy==1.22.3
+pandas==1.4.2
+requests==2.27.1
+scikit_learn==1.1.1
+seaborn==0.11.2
+tensorflow==2.9.1
+xgboost==1.6.0
